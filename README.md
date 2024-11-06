@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Igor Bermude Severnini 👋
 
+I'm a software Software Engineer. I'm currently working on a full stack mobile application.
 <!--
 **IgorBermude/IgorBermude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
