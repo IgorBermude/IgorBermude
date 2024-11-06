@@ -1,4 +1,4 @@
-## Hi there, I'm Igor Bermude Severnini 👋
+## Hi there, I'm Igor Bermude Severnini 🤝
 
 I'm a software Software Engineer. I'm currently working on a full stack mobile application.
 
