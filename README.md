@@ -1,6 +1,6 @@
 ## Hi there, I'm Igor Bermude Severnini 🤝
 
-I'm a software Software Engineer. I'm currently working on a full stack mobile application.
+I'm a software Software Engineer and Information Systems student at IFES. I'm currently working on a full stack mobile application.
 
 ### 📫 Where you can reach me?
 <div>
