@@ -5,7 +5,8 @@ I'm a software Software Engineer. I'm currently working on a full stack mobile a
 ### 📫 Where you can reach me?
 <div>
     <a href="https://instagram.com/igor_severnini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> <a     
-     href="https://www.linkedin.com/in/igor-bermude-severnini-639418238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+    href="https://www.linkedin.com/in/igor-bermude-severnini-639418238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> 
+    <a href = "mailto:igorbsevernini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 </div>
 
 ### 🛠️ Languages:
