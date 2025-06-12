@@ -1,5 +1,5 @@
 ## Hi there
-# I'm Igor Bermude Severnini - Desenvolvedor 🤝
+# I'm Igor Bermude Severnini - Dev 🤝
 
 I'm a software Software Engineer and Information Systems student at IFES. Welcome to my profile.
 
@@ -41,9 +41,22 @@ I'm a software Software Engineer and Information Systems student at IFES. Welcom
     - ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
     - ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
+ ## 🛠 Ferramentas
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+- ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+
 ## 📊 Estatísticas do GitHub
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBermude&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IgorBermude&style=flat-square&color=blue" alt=""/>
+</p>
 <!--
 **IgorBermude/IgorBermude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
