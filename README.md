@@ -1,7 +1,7 @@
 ## Hi there
 # I'm Igor Bermude Severnini - Dev 🤝
 
-I'm a software Software Engineer and Information Systems student at IFES. Welcome to my profile.
+I'm a software developer and Information Systems student at IFES. Welcome to my profile.
 
 ### 📫 Where you can reach me?
 <div>
