@@ -10,7 +10,7 @@ I'm a software developer and Information Systems student at IFES. Welcome to my 
     <a href = "mailto:igorbsevernini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 </div>
 
-## 🚀 Tecnologias e Habilidades
+## 🚀 Skills
 
 - ### 🛠️ Back End:
     - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +41,7 @@ I'm a software developer and Information Systems student at IFES. Welcome to my 
     - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBermude&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
